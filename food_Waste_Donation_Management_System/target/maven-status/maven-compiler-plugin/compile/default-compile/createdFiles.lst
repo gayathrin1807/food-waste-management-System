@@ -1,0 +1,13 @@
+ui\LoginApp$LoginResult.class
+model\FoodDonation.class
+service\UserService.class
+model\Donor.class
+Main.class
+service\DonationService.class
+model\NGO.class
+model\DonationRequest.class
+service\ReportService.class
+service\RequestService.class
+ui\LoginApp.class
+model\User.class
+model\Admin.class
